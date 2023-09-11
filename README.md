@@ -1,0 +1,2 @@
+# GaussCalcultor
+Calculating Gauss
