@@ -11,7 +11,7 @@
 <h2>Development Stage</h2>
 <ul>
   <li>
-    Started the development on #9/11/2023
+    Started the development on <b>9/11/2023</b>
   </li>
   <li>
     The Gauss Calculator is still in the development phase.
