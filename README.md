@@ -27,7 +27,7 @@
       It will show you the table at the end of the run.
     </li>
     <li>
-      It is able to solve #size 2x4 tables.
+      It is able to solve <b>size 2x4 tables</b>.
     </li>
   </ul>
 
