@@ -13,13 +13,17 @@
   <li>
     The Gauss Calculator is still in the development phase.
   </li>
-  <li>
-    For now, it is only able to solve the first step.
-  </li>
-  <li>
-    It will show you the table at the end of the run.
-  </li>
 </ul>
+
+<h2>
+  <ul>
+    <li>
+      For now, it is only able to solve the first step.
+    
+      It will show you the table at the end of the run.
+    </li>
+  </ul>
+</h2>
 
 <h2>Technologies Used</h2>
 <ul>
