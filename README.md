@@ -1,10 +1,14 @@
 <h1>What is Gauss Calculator</h1>
-<ul>
+<ul size="20">
   <li>
     Gauss calculator helps you to solve the Gauss Elimination problems.
   </li>
+  <li>
+    Gauss calculator takes the stress of Linear Algebra off of your shoulders.
+  </li>
 </ul>
-<h2>What Stage Is It In?</h2>
+
+<h2>Development Stage</h2>
 <ul>
   <li>
     The Gauss Calculator is still in the development phase.
@@ -16,6 +20,7 @@
     It will show you the table at the end of the run.
   </li>
 </ul>
+
 <h2>Technologies Used</h2>
 <ul>
   <li>C#</li>
