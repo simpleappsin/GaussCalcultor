@@ -1,6 +1,6 @@
 <h1>What is Gauss Calculator</h1>
-<ul size="40">
-  <li>
+<ul>
+  <li size="40">
     Gauss calculator helps you to solve the Gauss Elimination problems.
   </li>
   <li>
